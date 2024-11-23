@@ -1,0 +1,4 @@
+cd backend
+npm init -y
+npm install express body-parser mysql2 dotenv bcrypt jsonwebtoken
+
